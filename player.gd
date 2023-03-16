@@ -1,3 +1,9 @@
+# it is very important, that the character has 1. spring_arm_pivot 2. focus_point (face height) 3. springArm3D (short length) 4. Camera3d
+
+
+
+
+
 extends CharacterBody3D
 
 @onready var game_rig = $game_rig
